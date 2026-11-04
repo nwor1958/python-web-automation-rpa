@@ -1,0 +1,13 @@
+# Arquivos de cache e bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais (caso você crie um localmente)
+venv/
+env/
+.venv/
+
+# Arquivos de configuração de editores (VS Code, PyCharm)
+.vscode/
+.idea/
